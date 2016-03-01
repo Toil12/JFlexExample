@@ -2,11 +2,11 @@ To compile
 	
 	in Linux, OSX run:
 
-    	./compile.sh readtoken.flex
+    	./compile.sh uppercase.flex
 
     in Windows run:
 
-    	compile.bat readtoken.flex
+    	compile.bat uppercase.flex
 
     
 
